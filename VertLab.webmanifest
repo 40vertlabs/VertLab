@@ -1,0 +1,19 @@
+{
+  "name": "VertLab — Vertical Jump Training",
+  "short_name": "VertLab",
+  "description": "A 52-week periodized vertical jump program.",
+  "start_url": "./VertLab_1790481309947.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "./vertlab-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
